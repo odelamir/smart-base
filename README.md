@@ -27,13 +27,13 @@ Developed a smart military base monitoring system using ESP32 and C++, featuring
 ##### Below is the GUI in the project👇
 
 ![AA](AA.png)
- ![BB](BB.png)
+![BB](BB.png)
 
 ##### in normal mode👇
+##### in a state of danger💥💥
 
+<img src="DD.png" alt="Image " width="300"/> <img src="CC.png" alt="Image! " width="300"/>
 
-<img src="DD.png" alt="Image " width="300"/>
-<img src="CC.png" alt="Image! " width="300"/>
 
 #### License
 This code is proprietary and confidential. You are granted permission to view this code but not to copy, use, distribute, or modify it without explicit permission from the owner.
