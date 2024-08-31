@@ -28,9 +28,8 @@ Developed a smart military base monitoring system using ESP32 and C++, featuring
 
 ![AA](AA.png)
 ![BB](BB.png)
-This is some text<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>with a large gap in the middle.
 
-##### in normal mode👇           ##### in a state of danger💥💥
+##### in normal mode👇<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>in a state of danger💥💥
 
 
 <img src="DD.png" alt="Image " width="300"/>        <img src="CC.png" alt="Image! " width="300"/>
