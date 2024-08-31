@@ -31,12 +31,12 @@ Developed a smart military base monitoring system using ESP32 and C++, featuring
 
 ##### in normal mode👇
 
-![DD](DD.png)
+
 <img src="DD.png" alt="Image " width="300"/>
 
 ##### in a state of danger💥💥
 
- ![CC](CC.png)
+<img src="CC.png" alt="Image! " width="300"/>
 
 #### License
 This code is proprietary and confidential. You are granted permission to view this code but not to copy, use, distribute, or modify it without explicit permission from the owner.
