@@ -27,8 +27,7 @@ Developed a smart military base monitoring system using ESP32 and C++, featuring
 ##### Below is the GUI in the project👇
 
 ![AA](AA.png)
-
- ![BB](AA.png)
+ ![BB](BB.png)
 
 ##### in normal mode👇
 
