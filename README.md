@@ -8,7 +8,7 @@ Developed a smart military base monitoring system using ESP32 and C++, featuring
 
 
 
-##### [Project book](https://drive.google.com/file/d/1s1mIrd-jn3SXPhV82BAf0Z0rtWOJd54j/view?usp=sharing)
+### [Project book](https://drive.google.com/file/d/1s1mIrd-jn3SXPhV82BAf0Z0rtWOJd54j/view?usp=sharing)
 
 ## Project Overview
 ### Key Features
